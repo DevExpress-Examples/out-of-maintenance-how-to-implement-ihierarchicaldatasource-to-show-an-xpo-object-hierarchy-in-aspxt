@@ -5,7 +5,7 @@
 * [XpoHelper.cs](./CS/WebSite/App_Code/XpoHelper.cs) (VB: [XpoHelper.vb](./VB/WebSite/App_Code/XpoHelper.vb))
 * [XpoHierarchicalDataSource.cs](./CS/WebSite/App_Code/XpoHierarchicalDataSource.cs) (VB: [XpoHierarchicalDataSource.vb](./VB/WebSite/App_Code/XpoHierarchicalDataSource.vb))
 * [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
-* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to implement IHierarchicalDataSource to show an XPO object hierarchy in ASPxTreeView
 
